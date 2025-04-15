@@ -5,7 +5,7 @@ This is a personal portfolio website developed by **Amit Thakur**, a Full Stack 
 
 ## 🌐 Live Demo
 
-[View Portfolio](https://amit01portfolio.blogspot.com/) <!-- Replace with live deployment link if available -->
+[View Portfolio](http://127.0.0.1:5500/portfolio-responsive-complete-main/index.html) <!-- Replace with live deployment link if available -->
 
 ---
 
